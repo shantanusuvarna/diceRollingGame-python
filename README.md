@@ -52,6 +52,7 @@ Thanks for playing!
 
 
 Code Explanation
+
 random.randint(1,6) is used to generate random numbers between 1 and 6, simulating the roll of a die.
 The while loop checks if the user wants to continue rolling or not, and restricts the number of rolls to 4.
 The input for the number of dice ensures that the user selects between 1 and 5 dice to roll.
